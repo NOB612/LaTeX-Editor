@@ -1,0 +1,64 @@
+[LaTeXEditor] Privacy Policy
+
+Effective Date: November 10, 2025
+
+This Privacy Policy explains how LaTeXEditor ("the App", "we", "us", or "our") collects, uses, and protects your information when you use our desktop application.
+1. Information We Collect
+
+As a tool designed primarily for local operation, LaTeXEditor is committed to minimizing data collection.
+
+A. Your Content Data
+
+    Local File Storage: The content of LaTeX documents you create or edit within the App is stored on your local device by default.
+
+    Remote Compilation Transfer: When you initiate a compilation request, the App will temporarily upload your LaTeX source files and associated assets (such as images, BibTeX files, etc.) to our remote compilation server to complete the compilation process and generate the final output (typically a PDF).
+
+    Server Processing, Temporary Storage, and Deletion Commitment:
+
+        Processing Time: Our compilation servers access your file content only for the brief duration required to process the compilation request.
+
+        Temporary Storage Purpose: Files are retained for a maximum of 7 days after a successful compilation. This temporary storage supports system debugging, error troubleshooting, and security logging to ensure service reliability.
+
+        Deletion Commitment: Your source files and content will be permanently deleted after 7 days, unless otherwise required by law or involved in an unresolved security incident.
+
+        Non-Storage Commitment: We commit that your file content will not be stored for any other purposes (such as user behavior analysis, model training, etc.), nor will it be transferred to any third party not essential to the compilation process.
+
+    Local Preferences: The App may store configuration information such as UI themes, font sizes, and window layouts. This information is stored exclusively on your device to enhance your user experience.
+
+B. Automatically Collected Information (If Enabled) If you choose to opt-in, we may collect the following anonymous information:
+
+    Anonymous Usage Statistics: Such as crash reports, feature usage frequency, App launch times, and operating system versions. This data does not contain any information that directly identifies you and is used solely to diagnose errors and improve App performance.
+
+2. How We Use Your Information
+
+We use the collected information only for the following purposes:
+
+    Providing Core Services: To enable App features and process your local files.
+
+    App Maintenance: To analyze anonymous crash reports and usage data to fix bugs and optimize the App.
+
+    Security Protection: To ensure the secure and stable operation of the App and our services.
+
+3. Information Sharing and Disclosure
+
+Since the App operates primarily locally and collects minimal Personally Identifiable Information (PII), we do not share your personal data with third parties except in the following circumstances:
+
+    Legal Requirements: To comply with laws, regulations, court orders, or in response to valid requests by government authorities.
+
+    Service Providers (If Applicable): Only when relying on third-party services (e.g., anonymous analytics services), we may share necessary anonymous data. These providers are committed to complying with this Privacy Policy and applicable data protection laws.
+
+4. Data Security
+
+We implement reasonable physical, electronic, and managerial measures to protect your information from unauthorized access, use, or disclosure. Please note, however, that no method of transmission or storage is 100% secure. Since your file content is primarily stored on your local device, you are responsible for the security of your own device.
+5. Your Rights
+
+You have the right to access, correct, or delete any personal information we may collect and process. If you have any questions regarding the anonymous data we collect, please contact us using the information below.
+6. Children’s Privacy
+
+The App is not intended for children under the age of 13. We do not knowingly collect PII from children under 13. If we discover that we have collected information from a child in this age group, we will delete it immediately.
+7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any updates will be posted on this page with a new effective date. We encourage you to review this policy periodically.
+8. Contact Us
+
+If you have any questions, comments, or complaints regarding this Privacy Policy, please contact us at: dong4138@126.com
